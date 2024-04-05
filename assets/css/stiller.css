@@ -1,0 +1,35 @@
+body {
+    background-color: #E0E8FF;
+    
+}
+
+.kutu {
+    background-color: white;
+    width: 450px;
+    height: 632px;
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    width: 354px;
+    height: 78px;
+    top: 451px;
+    left: 543px;
+    margin: auto;
+    text-align: center;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+h4 {
+    background-color: #382AE1;
+    color: white;
+    margin: 50px 30px 50px 30px;
+}
+
+h2 {
+    color: #717FA6;
+   
+}
+
